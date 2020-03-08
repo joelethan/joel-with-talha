@@ -1,0 +1,30 @@
+.body {
+  margin: 0px;
+}
+
+#welcome-section {
+  background-color: black;
+  width: 100%;
+  height: 400px;
+  text-align: center;
+}
+
+#welcome-section .main-heahing {
+  color: white;
+}
+
+#welcome-section .sub-heading {
+  color: white;
+}
+
+.main-heahing {
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 40%;
+}
+
+.sub-heading {
+  position: absolute;
+  margin-top: 210px;
+  margin-left: 40%;
+}
